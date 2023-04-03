@@ -1,0 +1,52 @@
+﻿@model IEnumerable<TMS.DAL.Dtos.CourseDto>
+
+@{
+    ViewData["Title"] = "Courses";
+}
+
+<section id="about" class="about">
+    <div class="container" data-aos="fade-up">
+
+        <div class="row">
+            <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1 content">
+<br /><br />
+
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Register New Course</a>
+</p>
+<br />
+
+<h2>List of Registered Courses</h2>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Career Path</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.Id</td>
+                <td>@course.Title</td>
+                <td>@course.CareerPath</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@course.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Edit" asp-route-id="@course.Id" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@course.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+ </div>
+ </div>
+ </div>
+ </section>

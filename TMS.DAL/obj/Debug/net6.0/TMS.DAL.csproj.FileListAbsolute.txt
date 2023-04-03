@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\TMS\TMS.DAL\bin\Debug\net6.0\TMS.DAL.deps.json
+C:\Users\HP\Desktop\TMS\TMS.DAL\bin\Debug\net6.0\TMS.DAL.runtimeconfig.json
+C:\Users\HP\Desktop\TMS\TMS.DAL\bin\Debug\net6.0\TMS.DAL.dll
+C:\Users\HP\Desktop\TMS\TMS.DAL\bin\Debug\net6.0\TMS.DAL.pdb
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\TMS.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\TMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\TMS.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\TMS.DAL.AssemblyInfo.cs
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\TMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\TMS.DAL.dll
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\refint\TMS.DAL.dll
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\TMS.DAL.pdb
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\TMS.DAL.genruntimeconfig.cache
+C:\Users\HP\Desktop\TMS\TMS.DAL\obj\Debug\net6.0\ref\TMS.DAL.dll
