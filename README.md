@@ -1,1 +1,1 @@
-# TMS
+# Trainee Management System
